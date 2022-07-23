@@ -1,5 +1,15 @@
-⚠️ Edit: This repository has been moved [this new link](https://github.com/ironhack-edu/technical_challenge_DA). New submissions should be done there.
+﻿
+# bootcamp Tech challenge
+*The project is divided in parts:
+	*A data/ folder with the data sets 
+	*A database_creation.sql file in sql/ folder for the database creation and loading
+	*A tableau file in tableau/ folder where tableau analysis is presented
+	*A Jupiter notebook file challengeV1 where data is cleanaing and a linear regression model is created
+	*A pdf file in Data analysis/ with the final tableau dashboard
+	*A cleandata.csv file with the final cleaned data
+This project is a part of Ironhack Data Analytics Full Time Bootcamp course. 
 
+## 1. Project Description
 
 
 # Tech challenge
